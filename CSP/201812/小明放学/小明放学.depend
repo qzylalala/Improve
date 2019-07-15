@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1563203864 source:c:\users\qzylalala\desktop\improve\csp\201812\小明放学\main.cpp
+	<iostream>
+	<algorithm>
+	<cmath>
+	<cstring>
+	<cstdio>
+
