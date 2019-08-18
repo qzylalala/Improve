@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1566095297 source:c:\users\qzylalala\desktop\improve\pat\写出这个数\main.cpp
+	<iostream>
+	<string>
+	<stack>
+
