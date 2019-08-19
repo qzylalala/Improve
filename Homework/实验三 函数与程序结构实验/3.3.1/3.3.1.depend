@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1546480164 source:c:\users\qzylalala\desktop\实验\代码\实验三\3.3.1\file.h
+	<stdio.h>
+
+1546480164 source:c:\users\qzylalala\desktop\实验\代码\实验三\3.3.1\file1.c
+	"file.h"
+
+1546480164 c:\users\qzylalala\desktop\实验\代码\实验三\3.3.1\file.h
+	<stdio.h>
+
+1546480164 source:c:\users\qzylalala\desktop\实验\代码\实验三\3.3.1\file2.c
+	"file.h"
+
