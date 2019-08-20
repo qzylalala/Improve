@@ -1,0 +1,7 @@
+﻿  AStar.cpp
+c:\users\qzylalala\desktop\improve\c++\astar\astar.cpp(19): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+c:\users\qzylalala\desktop\improve\c++\astar\astar.cpp(113): warning C4018: “>”: 有符号/无符号不匹配
+c:\users\qzylalala\desktop\improve\c++\astar\astar.cpp(114): warning C4018: “>”: 有符号/无符号不匹配
+  main.cpp
+  正在生成代码...
+  AStar.vcxproj -> C:\Users\qzylalala\Desktop\Improve\C++\AStar\Debug\AStar.exe
