@@ -1,0 +1,4 @@
+﻿  dfs.cpp
+c:\users\qzylalala\desktop\improve\problem\火车出站\dfs.cpp(38): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\qzylalala\desktop\improve\problem\火车出站\dfs.cpp(49): warning C4018: “<”: 有符号/无符号不匹配
+  火车出站.vcxproj -> C:\Users\qzylalala\Desktop\Improve\Problem\火车出站\Debug\火车出站.exe
