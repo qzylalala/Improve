@@ -21,5 +21,8 @@
     <ClCompile Include="迷宫.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="RobotMotion.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

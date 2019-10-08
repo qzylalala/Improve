@@ -1,5 +1,5 @@
 /*https://blog.csdn.net/chen_yuazzy/article/details/73656668 */
-
+/*
 #include<iostream>
 #include<cstring>
 
@@ -46,3 +46,4 @@ int main() {
 	}
 	return 0;
 }
+*/
