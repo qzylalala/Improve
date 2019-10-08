@@ -24,5 +24,8 @@
     <ClCompile Include="RobotMotion.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="FireNet.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

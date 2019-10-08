@@ -1,4 +1,6 @@
 /* https://blog.csdn.net/chen_yuazzy/article/details/76285322 */
+
+/*
 #include<iostream>
 #include<cstring>
 using namespace  std;
@@ -42,3 +44,5 @@ int main() {
 	}
 	return 0;
 }
+
+*/

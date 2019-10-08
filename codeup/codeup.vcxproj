@@ -115,6 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="FireNet.cpp" />
     <ClCompile Include="MixMilk.cpp" />
     <ClCompile Include="RobotMotion.cpp" />
     <ClCompile Include="迷宫.cpp" />
